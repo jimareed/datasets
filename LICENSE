@@ -1,2 +1,9 @@
+dataset: cait-historical-greenhouse-gas-emissions-data
 license: https://creativecommons.org/licenses/by-nc/4.0/
 source: https://knoema.com/CAITHED2012/cait-historical-greenhouse-gas-emissions-data
+
+
+dataset: noaa-esrl-month-c02-data
+source: https://www.esrl.noaa.gov/gmd/ccgg/trends/data.html
+        ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt
+reference: Dr. Pieter Tans, NOAA/ESRL (www.esrl.noaa.gov/gmd/ccgg/trends/) and Dr. Ralph Keeling, Scripps Institution of Oceanography (scrippsco2.ucsd.edu/).
